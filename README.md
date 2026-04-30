@@ -3,7 +3,7 @@
 ## Hi there 👋
 I'm **Skoow/Skoowshot**, software engineer from Kazakhstan.
 
-⚙️Working on systems architecture and backends - Go, microservices, Java
+⚙️Working on systems architecture and backends - Go, microservices, Java  
 🕹️Developing games in Unity
 
 
