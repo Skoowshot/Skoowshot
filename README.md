@@ -12,11 +12,6 @@ practicing in making complex things unitary, unitary things consistent.
 
 ---
 
-### Organizations  
-- [**✨Stellar**](https://github.com/StellarTM) - Tech Lead | Backend & Systems Engineer
-
----
-
 ### Tools
 - ☕Go, Java, C#
 - 💻Microservices, ASP.NET, Unity
