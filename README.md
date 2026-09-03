@@ -4,7 +4,7 @@
 I'm **Skoow/Skoowshot**, software engineer from Kazakhstan.
 
 ⚙️Working on systems architecture and backends - Go, microservices, Java  
-🕹️Developing games in Unity
+🕹️Developing games in Godot/Unity
 
 
 > In coding I use different techniques and patterns for clean architecture,  
@@ -14,7 +14,7 @@ practicing in making complex things unitary, unitary things consistent.
 
 ### Tools
 - ☕Go, Java, C#
-- 💻Microservices, ASP.NET, Unity
+- 💻Microservices, ASP.NET, Unity, Godot
 - 🐋Docker
 
 ---
